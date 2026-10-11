@@ -2,7 +2,7 @@
 
 One-time setup scripts that let a hybrid (on-prem AD + Microsoft Entra ID) onboarding process run as a **standard help desk account** instead of Domain Admin and Global Administrator.
 
-These accompany the Azure Innovators article **[Onboarding Without the Master Key: The Least-Privilege Build](https://www.azureinnovators.com/)**, Part 2 of [Disabled Isn't Safe](https://www.azureinnovators.com/2026/10/10/disabled-admin-account-global-administrator-synced-ou/).
+These accompany the Azure Innovators article **[Onboarding Without the Master Key: The Least-Privilege Build](https://www.azureinnovators.com/2026/10/11/least-privilege-hybrid-onboarding-jea-pim-key-vault/)**, Part 2 of [Disabled Isn't Safe](https://www.azureinnovators.com/2026/10/10/disabled-admin-account-global-administrator-synced-ou/).
 
 > **These are setup scripts, not an onboarding script.** Each one is run **once**, by an administrator, from a **privileged access workstation (PAW)**. What they build is what lets your day-to-day onboarding run without privileged credentials.
 
